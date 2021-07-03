@@ -21,8 +21,8 @@ function Header() {
                 <HeaderItem title='ACCOUNT' Icon={UserIcon} />
             </div>
             <Image 
-            className='object-contain'
-            src='https://links.papareact.com/ua6'
+            className='object-contain cursor-pointer hover:animate-bounce active:animate-spin '
+            src='http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png'
             width={200}
             height={100}
             />
